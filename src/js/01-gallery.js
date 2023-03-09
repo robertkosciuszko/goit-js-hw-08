@@ -30,3 +30,19 @@ gallery.append(...items);
 new SimpleLightbox('.gallery a', {
   captionDelay: 250,
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
